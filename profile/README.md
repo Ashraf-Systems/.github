@@ -28,14 +28,14 @@
 
 ## 🛠️ Flagship Platforms & Solutions
 
-| Product | Focus Area | Description |
-| :--- | :--- | :--- |
-| **[UrusKargo](https://www.ashrafsystems.com/products#uruskargo)** | Logistics & Fleet TMS | Cloud-native Transport Management System for automated dispatching, multi-stop route optimization, and real-time fleet telemetry. |
-| **[Rimbun](https://rimbun.my)** | Campsite & Hospitality SaaS | Multi-tenant booking & operations platform purpose-built for independent campsites, glamping resorts, and outdoor stay operators. |
-| **[PesanSini](https://www.ashrafsystems.com/products#pesansini)** | F&B Table QR & KDS | Frictionless QR dine-in ordering and real-time Kitchen Display System powered by instant DuitNow QR settlements. |
-| **[CopLagi](https://www.ashrafsystems.com/products#coplagi)** | Digital Loyalty Pass | Universal mobile wallet loyalty pass replacing physical stamp cards with automated merchant reward tiers. |
-| **[Projek Didik](https://didikapp.my)** | EdTech & KSSR Learning | Interactive learning ecosystem & diagnostic assessment apps for primary education built with Kotlin Multiplatform. |
-| **[Mobile & Utilities](https://www.ashrafsystems.com/about)** | Native & KMP Apps | Consumer companion tools including **Wiridly** (Digital Tasbih) and **KiblatSaya** (Qibla Compass). |
+| Platform | Domain / Website | Focus Area | Description |
+| :--- | :--- | :--- | :--- |
+| **UrusKargo** | [uruskargo.com](https://www.uruskargo.com) | Logistics & Fleet TMS | Cloud-native Transport Management System for automated dispatching, multi-stop route optimization, and real-time fleet telemetry. |
+| **Rimbun** | [rimbun.my](https://www.rimbun.my) | Campsite & Hospitality SaaS | Multi-tenant booking & operations platform purpose-built for independent campsites, glamping resorts, and outdoor stay operators. |
+| **PesanSini** | [pesansini.com](https://www.pesansini.com) | F&B Table QR & KDS | Frictionless QR dine-in ordering and real-time Kitchen Display System powered by instant DuitNow QR settlements. |
+| **CopLagi** | [coplagi.com](https://www.coplagi.com) | Digital Loyalty Pass | Universal mobile wallet loyalty pass replacing physical stamp cards with automated merchant reward tiers. |
+| **Projek Didik** | [didikapp.my](https://didikapp.my) | EdTech & KSSR Learning | Interactive learning ecosystem & diagnostic assessment apps for primary education built with Kotlin Multiplatform. |
+| **Mobile & Utilities** | [ashrafsystems.com](https://www.ashrafsystems.com) | Native & KMP Apps | Consumer companion tools including **Wiridly** (Digital Tasbih) and **KiblatSaya** (Qibla Compass). |
 
 ---
 
